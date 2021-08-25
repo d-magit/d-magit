@@ -28,16 +28,16 @@
   <br>
   
   <p align="center">
-    <img alt="Davi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=d-mageek&count_private=true&show_icons=true&theme=material-palenight" />
+    <img alt="Davi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=d-magit&count_private=true&show_icons=true&theme=material-palenight" />
   </p>
   
   <p align="center">
     (I swear this is wrong but here we go lol) <br>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-mageek&langs_count=8&theme=material-palenight" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-magit&langs_count=8&theme=material-palenight" />
   </p>
   
   <p align="center">
-    <img alt="" src="https://komarev.com/ghpvc/?username=d-mageek&color=brightgreen&style=flat-square" />
+    <img alt="" src="https://komarev.com/ghpvc/?username=d-magit&color=brightgreen&style=flat-square" />
   </p>
   
   <br>
