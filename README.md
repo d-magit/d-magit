@@ -14,6 +14,8 @@
   <a href="https://discord.com/users/227477384356429824" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?label=Davi&message=%230003&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord" /></a>
   <a href="https://davi.codes" target="_blank"><img alt="Main Website" src="https://img.shields.io/website?label=davi.codes&style=for-the-badge&url=https%3A%2F%2Fdavi.codes" /></a> <br>
   I have (some basic, other advanced) experience with: <br>
+  <img alt="C#" width="26px" src="https://davi.codes/giticons/csharp.png" />
+  <img alt="Python 3" width="26px" src="https://davi.codes/giticons/python.png" />
   <img alt="Visual Studio 2019" width="26px" src="https://davi.codes/giticons/vs2019.png" />
   <img alt="Risc-V" width="26px" src="https://davi.codes/giticons/risc-v.png" />
   <img alt="Blender3D" width="26px" src="https://davi.codes/giticons/blender.png" />
