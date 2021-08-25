@@ -2,7 +2,7 @@
 <p>
   I am currently a 19 years old CS Student that does pretty much anything that catches my attention, which goes from game modding, mathematics and coding (my area), to even 3d modeling sometimes, and experimenting some random stuff like drawing or music; <br> 
   <br> 
-  I also like reading a lot, but it's more like a seasonal hobby that comes and go for me xd; <br> 
+  I also like reading a lot, but it's more like a seasonal hobby that comes and goes for me xd; <br> 
   <br> 
   I like to play games (tho now I sold my soul to <a href="https://vrchat.com/" target="_blank">VRChat</a> xD) with friends and watching anime and/or reading manga/LN sometimes (used to do more in the past tho rip); <br> 
   <br> 
