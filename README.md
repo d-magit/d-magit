@@ -1,4 +1,4 @@
-### Hello there! I'm Davivi~ ❣
+### Hello there! I'm Davi, but you can call me Davivi~ ❣
 <p>
   I am currently a 19 years old CS Student that does pretty much anything that catches my attention, which goes from game modding, mathematics and coding (my area), to even 3d modeling sometimes, and experimenting some random stuff like drawing or music; <br> 
   <br> 
