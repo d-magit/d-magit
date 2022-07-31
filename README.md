@@ -1,14 +1,12 @@
-### Hello there! I'm Davi, but you can call me Davivi~ ❣
+### Hello there, I'm Davi! ❣
 <p>
-  I am currently a 19 years old CS Student that does pretty much anything that catches my attention, which goes from game modding, mathematics and coding (my area), to even 3d modeling sometimes, and experimenting some random stuff like drawing or music; <br> 
-  <br> 
-  I also like reading a lot, but it's more like a seasonal hobby that comes and goes for me xd; <br> 
-  <br> 
-  I like to play games (tho now I sold my soul to <a href="https://vrchat.com/" target="_blank">VRChat</a> xD) with friends and watching anime and/or reading manga/LN sometimes (used to do more in the past tho rip); <br> 
-  <br> 
-  For now, my goals are to finish uni and maybe studying or even living somewhere outside like Japan or Canada one day. <br>
-  <br> 
-  That's all folks. No more, no less XD.
+  I'm a 20yo CS Student. A nerd that likes messing with funny stuff. <br>
+  <br>
+  For now, I'm focusing on my obligations as I depend on them, which leads to me not having much free time, so I barely do those things anymore, as much as I want to. <br>
+  <br>
+  Used to mod for VRChat, but after they kicked us, decided to support <a href="https://hub.abinteractive.net/" target="_blank">ChilloutVR</a> as much as I can. <br>
+  <br>
+  Hope to see you around! <br>
 </p>
 <p align="center">
   <a href="https://discord.com/users/227477384356429824" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?label=Davi&message=%230003&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord" /></a>
@@ -34,7 +32,6 @@
   </p>
   
   <p align="center">
-    (I swear this is wrong but here we go lol) <br>
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-magit&langs_count=8&theme=material-palenight" />
   </p>
   
